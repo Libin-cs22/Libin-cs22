@@ -7,7 +7,7 @@ Hi ! I'm LIBIN
 
 * 🌍  I'm based in NagerCoil, KaniyaKumari
 * ✉️  You can contact me at <h4>[ mohamedshahid.cs22@stellamaryscoe.edu.in ]
-[ moh.shahid2004@gmail.com ]</h4>
+[ cselibin@gmail.com ]</h4>
 
 <a href="https://www.github.com/Libin-cs22" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Libin-cs22?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br>
@@ -43,7 +43,7 @@ src="https://img.shields.io/github/followers/Libin-cs22?logo=github&style=for-th
 
 <b>📊 GitHub Stats</b>
 
-<a href="http://www.github.com/Libin-cs22"><img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Shahid-cs22's GitHub stats" /></a>
+<a href="http://www.github.com/Libin-cs22"><img src="https://github-readme-stats.vercel.app/api?username=Shahid-cs22&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Libin-cs22's GitHub stats" /></a>
 
 <a href="http://www.github.com/Libin-cs22"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahid-cs22&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

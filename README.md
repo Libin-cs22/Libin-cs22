@@ -6,7 +6,7 @@ Hi ! I'm LIBIN
 ======================================================================================================================================
 
 * 🌍  I'm based in NagerCoil, KaniyaKumari
-* ✉️  You can contact me at <h4>[ mohamedshahid.cs22@stellamaryscoe.edu.in ]
+* ✉️  You can contact me at <h4>[ libin.cs22@stellamaryscoe.edu.in ]
 [ cselibin@gmail.com ]</h4>
 
 <a href="https://www.github.com/Libin-cs22" target="_blank" rel="noreferrer"><img
